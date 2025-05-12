@@ -20,11 +20,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/mmersal" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
 <a href="mailto:hello@mersal.top" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://mersal.top" target="_blank">
-  <img src="https://skillicons.dev/icons?i=behance" />
 </a>
 </p>
 
