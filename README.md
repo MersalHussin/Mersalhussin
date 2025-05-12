@@ -6,7 +6,7 @@
 
 <h3 align="left">🙋‍♂️ About me:</h3>
 
-- 🧠 I'm **Mersal**, a creative **Front-end Developer** specialized in **React.js**, blending code and design to build immersive web experiences.
+- 🧠 a creative **Front-end Developer** specialized in **React.js**, blending code and design to build immersive web experiences.
 - 👨‍💻 I’ve studied and worked with **HTML**,**JavaScript**, **CSS**, **React**, and **Firebase** — creating modern, fast, and responsive UIs.
 - 🎨 With strong skills in **Photoshop**, **Illustrator**, and **InDesign**, I bring visual ideas to life with precision and flair.
 - 🧩 I design intuitive user experiences using **Adobe XD** and **Figma**, merging aesthetics with usability.
