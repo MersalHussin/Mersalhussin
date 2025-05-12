@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mersal</h1>
 <h3 align="center">Frontend Developer | React.js</h3>
-<img src="https://mersal.top/assets/Photos/Mersal-wide-logo.svg" alt="Mersal Logo"/>
+![Mersal Logo](https://mersal.top/assets/Photos/Mersal-wide-logo.svg)
 
 <h3 align="left">🙋‍♂️ About me:</h3>
 
