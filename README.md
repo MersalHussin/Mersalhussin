@@ -1,8 +1,7 @@
-<div style="text-align:center;">
-<a href="http://mersal.top/>
+<a href="https://mersal.top" target="blank">
 <img src="https://mersal.top/assets/Photos/Mersal-wide-logo.svg" alt="Mersal Logo"/>
 </a>
-</div><h1 align="center">Hi 👋, I'm Mersal</h1>
+<h1 align="center">Hi 👋, I'm Mersal</h1>
 <h3 align="center">Frontend Developer <span>(React.js)</span> | UI/UX Designer</h3>
 
 
