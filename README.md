@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 <a href="https://mersal.top" target="_blank">
-  <img src="https://skillicons.dev/icons?i=website" />
+  <img src="https://skillicons.dev/icons?i=behance" />
 </a>
 </p>
 
