@@ -1,4 +1,4 @@
-<a href="https://mersal.top" target="blank">
+<a href="https://mersal.top" target="_blank">
 <img src="https://mersal.top/assets/Photos/Mersal-wide-logo.svg" alt="Mersal Logo"/>
 </a>
 <h1 align="center">Hi 👋, I'm Mersal</h1>
@@ -18,12 +18,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mmersal" target="blank">
+<a href="https://linkedin.com/in/mmersal" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
-<a href="mailto:hello@mersal.top" target="blank">
+<a href="mailto:hello@mersal.top" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<a href="https://mersal.top" target="blank">
+<a href="https://mersal.top" target="_blank">
   <img src="https://skillicons.dev/icons?i=website" />
 </a>
 </p>
