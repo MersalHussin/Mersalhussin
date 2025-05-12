@@ -1,7 +1,7 @@
 <div style="text-align:center;">
 <img src="https://mersal.top/assets/Photos/Mersal-wide-logo.svg" alt="Mersal Logo"/>
 </div><h1 align="center">Hi 👋, I'm Mersal</h1>
-<h3 align="center">Frontend Developer (React.js) | UI/UX Designer</h3>
+<h3 align="center">Frontend Developer <h6>(React.js)</h6> | UI/UX Designer</h3>
 
 
 <h3 align="left">🙋‍♂️ About me:</h3>
