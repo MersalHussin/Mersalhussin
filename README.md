@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mostafa Mersal</h1>
 <h3 align="center">Frontend Developer | React.js</h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousefdergham.vercel.app/ to see some of the projects I've worked on.
+<h3 align="left">🙋‍♂️ About me:</h3>
 
-
-### Connect with Me :
-
-<a href="https://mersal.top" target="_blank"><img src="https://img.shields.io/badge/-Mersal-Portfolio-3fd357?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+- 🧠 I'm **Mersal Hussein**, a creative **Front-end Developer** specialized in **React.js**, blending code and design to build immersive web experiences.
+- 👨‍💻 I’ve studied and worked with **JavaScript**, **React**, **HTML**, **CSS**, and **Firebase** — creating modern, fast, and responsive UIs.
+- 🎨 With strong skills in **Photoshop**, **Illustrator**, and **InDesign**, I bring visual ideas to life with precision and flair.
+- 🧩 I design intuitive user experiences using **Adobe XD** and **Figma**, merging aesthetics with usability.
+- 💬 Ask me about React, component-based architecture, or how I turn static designs into fully interactive websites.
+- 🌍 **Portfolio**: [mersal.top](https://mersal.top) — Dive into my work and see what I’ve been building.
+- ⚡ **Fun Fact**: I’m obsessed with clean interfaces, smooth interactions… and maybe coffee too ☕.
 
 
 <h3 align="left">Connect with me:</h3>
