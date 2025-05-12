@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Mersal</h1>
 <h3 align="center">Frontend Developer | React.js</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdalla-shaban&label=Profile%20views&color=0e75b6&style=flat" alt="abdalla-shaban" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalla-shaban" alt="abdalla-shaban" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,20 +9,23 @@
 <a href="mailto:hello@mersal.top" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+<a href="https://mersal.top" target="blank">
+  <img src="https://skillicons.dev/icons?i=website" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,tailwind," />
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,firebase,postman" />
   </a>
    </p>
    <h3 align="left">Familiarity With:</h3>
    <p align="left">
       <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=photoshop,indesign,illustrator,figma,xd" />
+      <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,xd" />
   </a>
  </p>
 
