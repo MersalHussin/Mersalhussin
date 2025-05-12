@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah Madkour</h1>
+<h1 align="center">Hi 👋, I'm Mostafa Mersal</h1>
 <h3 align="center">Frontend Developer | React.js</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdalla-shaban&label=Profile%20views&color=0e75b6&style=flat" alt="abdalla-shaban" /> </p>
@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdullahmadkour" target="blank">
+<a href="https://linkedin.com/in/mmersal" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
-<a href="mailto:abdallashaban584@gmail.com" target="blank">
+<a href="mailto:hello@mersal.top" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
@@ -17,15 +17,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,regex,bootstrap,sass" />
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vercel,postman" />
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwind," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,firebase,postman" />
   </a>
    </p>
    <h3 align="left">Familiarity With:</h3>
    <p align="left">
       <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,figma,xd" />
+      <img src="https://skillicons.dev/icons?i=photoshop,indesign,illustrator,figma,xd" />
   </a>
  </p>
 
