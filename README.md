@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mostafa Mersal</h1>
+<h1 align="center">Hi 👋, I'm Mersal</h1>
 <h3 align="center">Frontend Developer | React.js</h3>
+<img src="https://mersal.top/assets/Photos/Mersal-wide-logo.svg" alt="Mersal Logo"/>
 
 <h3 align="left">🙋‍♂️ About me:</h3>
 
-- 🧠 I'm **Mersal Hussein**, a creative **Front-end Developer** specialized in **React.js**, blending code and design to build immersive web experiences.
-- 👨‍💻 I’ve studied and worked with **JavaScript**, **React**, **HTML**, **CSS**, and **Firebase** — creating modern, fast, and responsive UIs.
+- 🧠 I'm **Mersal**, a creative **Front-end Developer** specialized in **React.js**, blending code and design to build immersive web experiences.
+- 👨‍💻 I’ve studied and worked with **HTML**,**JavaScript**, **CSS**, **React**, and **Firebase** — creating modern, fast, and responsive UIs.
 - 🎨 With strong skills in **Photoshop**, **Illustrator**, and **InDesign**, I bring visual ideas to life with precision and flair.
 - 🧩 I design intuitive user experiences using **Adobe XD** and **Figma**, merging aesthetics with usability.
-- 💬 Ask me about React, component-based architecture, or how I turn static designs into fully interactive websites.
+- 💬 Ask me about how I turn static designs into fully interactive websites.
 - 🌍 **Portfolio**: [mersal.top](https://mersal.top) — Dive into my work and see what I’ve been building.
 - ⚡ **Fun Fact**: I’m obsessed with clean interfaces, smooth interactions… and maybe coffee too ☕.
 
