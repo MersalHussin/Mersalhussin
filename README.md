@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,tailwind," />
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwind" />
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,firebase,postman" />
   </a>
@@ -29,6 +29,6 @@
   </a>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla-shaban&show_icons=true&locale=en&layout=compact" alt="abdalla-shaban" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mersalhussin&show_icons=true&locale=en&layout=compact" alt="mersalhussin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalla-shaban&theme=default&hide_border=false&include_all_commits=true&count_private=false" alt="abdalla-shaban" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mersalhussin&theme=default&hide_border=false&include_all_commits=true&count_private=false" alt="mersalhussin" /></p>
