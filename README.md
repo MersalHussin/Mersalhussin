@@ -1,8 +1,9 @@
 <a href="https://mersal.top" target="_blank">
 <img src="https://mersal.top/assets/Photos/Mersal-wide-logo.svg" alt="Mersal Logo"/>
 </a>
+<p align="center"> <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="sherif-2001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherif-2001" alt="sherif-2001" /></a> </p>
+
 
 <h1 align="center">Hi 👋, I'm Mersal</h1>
 <h3 align="center">Frontend Developer <span>(React.js)</span> | UI/UX Designer</h3>
