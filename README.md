@@ -33,8 +33,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,tailwind" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,next" />
+    <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,firebase,postman" />
   </a>
    </p>
