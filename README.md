@@ -34,7 +34,7 @@
 <p align="left"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,tailwind" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,taliwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss" />
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,firebase,postman" />
   </a>
    </p>
